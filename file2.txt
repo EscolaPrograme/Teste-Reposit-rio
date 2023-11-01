@@ -1,1 +1,3 @@
 primeira linha
+linha 2
+introduzindo mais conteudo no arquivo
